@@ -1,30 +1,30 @@
 <h1 align="center">
     <br>
-    JUMPJUMP
+    dialogue-in-unity
 </h1>
 
 <h4 align="center">
   2D Platform game at Unity
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dionbiancha/jumpjump.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dionbiancha/dialogue-in-unity.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dionbiancha/jumpjump.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dionbiancha/dialogue-in-unity.svg">
 
-  <a href="https://www.codacy.com/app/dionbiancha/jumpjump?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dionbiancha/jumpjump&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/dionbiancha/dialogue-in-unity?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dionbiancha/dialogue-in-unity&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dionbiancha/jumpjump.svg">
-  <a href="https://github.com/dionbiancha/jumpjump/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dionbiancha/jumpjump.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dionbiancha/dialogue-in-unity.svg">
+  <a href="https://github.com/dionbiancha/dialogue-in-unity/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dionbiancha/dialogue-in-unity.svg">
   </a>
 
-  <a href="https://github.com/dionbiancha/jumpjump/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/dionbiancha/jumpjump.svg">
+  <a href="https://github.com/dionbiancha/dialogue-in-unity/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/dionbiancha/dialogue-in-unity.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/dionbiancha/jumpjump.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/dionbiancha/dialogue-in-unity.svg">
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Print" src="https://res.cloudinary.com/dionbiancha/image/upload/v1679441819/Design_sem_nome_1_ufhl8q.gif">
-</p>
+</p> -->
 
 ## :computer: Technologies
 
@@ -51,7 +51,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [U
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/dionbiancha/jumpjump.git
+$ git clone https://github.com/dionbiancha/dialogue-in-unity.git
 
 # open game project with Unity
 
@@ -60,7 +60,7 @@ $ git clone https://github.com/dionbiancha/jumpjump.git
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/dionbiancha/jumpjump/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/dionbiancha/dialogue-in-unity/blob/main/LICENSE) for more information.
 
 ---
 
